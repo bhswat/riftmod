@@ -6,3 +6,5 @@ Some commands to operate with rifts:
 2. #riftstart - current GM location, starting now
 3. #riftdel - delete event at GM location
 4. #riftcretdel - to delete creatures if it's buggy
+
+Thanks a lot to Scad, Ragxar
