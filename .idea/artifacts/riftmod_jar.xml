@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="riftmod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/riftmod_jar</output-path>
+    <root id="archive" name="riftmod.jar">
+      <element id="module-output" name="riftmod" />
+    </root>
+  </artifact>
+</component>
